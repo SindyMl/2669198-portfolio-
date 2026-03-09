@@ -9,7 +9,7 @@ let books = [];
 // GET /whoami
 app.get('/whoami', (req, res) => {
     res.status(200).json({
-        studentNumber: "2669198"
+        studentNumber: "266919"
     });
 });
 
